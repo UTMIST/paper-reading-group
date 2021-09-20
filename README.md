@@ -15,5 +15,5 @@ Basically, papers are chosen at the start of each month, and meetings happen on 
 |2022/03/26||||
 
 ## Also check these out
-* Discord: (#paper-reading-group channel)
-* Official website: https://utmist.gitlab.io/paper-reading-group
+* [Discord (#paper-reading-group)](https://discord.gg/88mSPw8) -- for discussions
+* [Official website](https://utmist.gitlab.io/paper-reading-group)
