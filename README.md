@@ -7,7 +7,7 @@ In this repository, you will find slidedecks and paper reproductions (depending 
 Basically, papers are chosen at the start of each month, and meetings happen on the **last Saturday of each month**.
 |Meeting date|Paper|Presentation|Reproduction|
 |-|-|-|-|
-|2021/09/25|[Deep Residual Learning for Image Recognition (He et al, 2016)](https://arxiv.org/pdf/1512.03385.pdf)|(Coming soon)|(???)|
+|2021/09/25|[Deep Residual Learning for Image Recognition (He et al, 2016)](https://arxiv.org/pdf/1512.03385.pdf)|[slides](https://docs.google.com/presentation/d/1sUZ8Zt9j_4cRZCVv3uU74VsHsenBXCRcXgwNlSU_ayU/edit?usp=sharing)|(none)|
 |2021/10/30|Transformers?|||
 |2021/11/27|AlphaFold??|||
 |2022/01/29||||
