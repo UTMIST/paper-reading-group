@@ -5,15 +5,17 @@ In this repository, you will find slidedecks and paper reproductions (depending 
 
 ## Timeline
 Basically, papers are chosen at the start of each month, and meetings happen on the **last Saturday of each month**.
-|Meeting date|Paper|Presentation|Reproduction|
-|-|-|-|-|
-|2021/09/25|[Deep Residual Learning for Image Recognition (He et al, 2016)](https://arxiv.org/pdf/1512.03385.pdf)|[slides](https://docs.google.com/presentation/d/1sUZ8Zt9j_4cRZCVv3uU74VsHsenBXCRcXgwNlSU_ayU/edit?usp=sharing)|(none)|
-|2021/10/30|Transformers?|||
-|2021/11/27|AlphaFold??|||
-|2022/01/29||||
-|2022/02/26||||
-|2022/03/26||||
+|Meeting date|Paper|Meeting|Slidedeck|Reproduction|
+|-|-|-|-|-|
+|2021/09/25|[Deep Residual Learning for Image Recognition (He et al, 2016)](https://arxiv.org/pdf/1512.03385.pdf)|[recording](https://youtu.be/w0UpZD1s5H0)|[slides](https://docs.google.com/presentation/d/1sUZ8Zt9j_4cRZCVv3uU74VsHsenBXCRcXgwNlSU_ayU/edit?usp=sharing)|(none)|
+|2021/10/30|[Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/pdf/1706.03762.pdf)|[Zoom link](https://utoronto.zoom.us/j/89895461428) <br>password:utmist|||
+|2021/11/27|AlphaFold?||||
+|2022/01/29|||||
+|2022/02/26|||||
+|2022/03/26|||||
 
 ## Also check these out
 * [Discord (#paper-reading-group)](https://discord.gg/88mSPw8) -- for discussions
 * [Official website](https://utmist.gitlab.io/paper-reading-group)
+
+If you have suggestions for the next paper to read, or any suggestions at all, please reach out to me on Discord!
