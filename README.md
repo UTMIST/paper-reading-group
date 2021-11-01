@@ -5,11 +5,11 @@ In this repository, you will find slidedecks and paper reproductions (depending 
 
 ## Timeline
 Basically, papers are chosen at the start of each month, and meetings happen on the **last Saturday of each month**.
-|Meeting date|Paper|Meeting|Slidedeck|Reproduction|
+|Meeting date|Paper|Meeting|Slidedeck|Resources|
 |-|-|-|-|-|
 |2021/09/25|[Deep Residual Learning for Image Recognition (He et al, 2016)](https://arxiv.org/pdf/1512.03385.pdf)|[recording](https://youtu.be/w0UpZD1s5H0)|[slides](https://docs.google.com/presentation/d/1sUZ8Zt9j_4cRZCVv3uU74VsHsenBXCRcXgwNlSU_ayU/edit?usp=sharing)|(none)|
-|2021/10/30|[Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/pdf/1706.03762.pdf)|[Zoom link](https://utoronto.zoom.us/j/89895461428) <br>password:utmist|||
-|2021/11/27|AlphaFold?||||
+|2021/10/30|[Attention Is All You Need (Vaswani et al, 2017)](https://arxiv.org/pdf/1706.03762.pdf)|[Zoom link](https://utoronto.zoom.us/j/89895461428)|[slides](https://docs.google.com/presentation/d/1eUwp0F2ax0axiH8CasYIX-C4KkNji79cVb4PJOlwZGo/edit?usp=sharing)|[OpenAI Beta](https://beta.openai.com/), [GPT3 interview](https://youtu.be/PqbB07n_uQ4?t=25), more in slides|
+|2021/11/27|[Highly accurate protein structure prediction with AlphaFold (Jumper et al, 2021)](https://www.nature.com/articles/s41586-021-03819-2)|[Zoom link](https://utoronto.zoom.us/j/87288841265)|||
 |2022/01/29|||||
 |2022/02/26|||||
 |2022/03/26|||||
@@ -19,3 +19,4 @@ Basically, papers are chosen at the start of each month, and meetings happen on 
 * [Official website](https://utmist.gitlab.io/paper-reading-group)
 
 If you have suggestions for the next paper to read, or any suggestions at all, please reach out to me on Discord!
+
